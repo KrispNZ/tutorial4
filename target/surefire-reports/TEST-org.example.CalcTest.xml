@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.CalcTest" time="0.012" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\iamic\Documents\UniWork2025\semester 2\software engineering\tutorial4\target\test-classes;C:\Users\iamic\Documents\UniWork2025\semester 2\software engineering\tutorial4\target\classes;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\iamic\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\iamic\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\iamic\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\iamic\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter\6.0.0-M2\junit-jupiter-6.0.0-M2.jar;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter-params\6.0.0-M2\junit-jupiter-params-6.0.0-M2.jar;C:\Users\iamic\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Tbilisi"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="NZ"/>
+    <property name="sun.boot.library.path" value="C:\Users\iamic\Documents\openjdk-17+35_windows-x64_bin\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\iamic\AppData\Local\Temp\surefire10323999890742319249\surefirebooter12552862205041973340.jar C:\Users\iamic\AppData\Local\Temp\surefire10323999890742319249 2025-08-17T10-34-30_448-jvmRun1 surefire15111485965423373334tmp surefire_01679360892382764338tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\iamic\Documents\UniWork2025\semester 2\software engineering\tutorial4\target\test-classes;C:\Users\iamic\Documents\UniWork2025\semester 2\software engineering\tutorial4\target\classes;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\iamic\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\iamic\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\iamic\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\iamic\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter\6.0.0-M2\junit-jupiter-6.0.0-M2.jar;C:\Users\iamic\.m2\repository\org\junit\jupiter\junit-jupiter-params\6.0.0-M2\junit-jupiter-params-6.0.0-M2.jar;C:\Users\iamic\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\iamic"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-09-14"/>
+    <property name="java.home" value="C:\Users\iamic\Documents\openjdk-17+35_windows-x64_bin\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\iamic\Documents\UniWork2025\semester 2\software engineering\tutorial4"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\iamic\AppData\Local\Temp\surefire10323999890742319249\surefirebooter12552862205041973340.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17+35-2724"/>
+    <property name="user.name" value="iamic"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\iamic\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\iamic\AppData\Local\Temp\"/>
+    <property name="java.version" value="17"/>
+    <property name="user.dir" value="C:\Users\iamic\Documents\UniWork2025\semester 2\software engineering\tutorial4"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\iamic\Documents\openjdk-17+35_windows-x64_bin\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Users\iamic\Documents\openjdk-17+35_windows-x64_bin\jdk-17\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-4.0.0-alpha-5\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Users\iamic\AppData\Roaming\local\bin;C:\Users\iamic\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\iamic\AppData\Local\Programs\Python\Python313\;C:\Users\iamic\AppData\Local\Programs\Python\Launcher\;C:\Users\iamic\AppData\Local\Programs\Quarto\bin;C:\Ruby32-x64\bin;C:\Users\iamic\AppData\Local\Microsoft\WindowsApps;C:\Users\iamic\AppData\Roaming\npm;C:\MinGW\mingw64\bin\;C:\MinGW\mingw64\x86_64-w64-mingw32\lib\;C:\Users\iamic\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\iamic\AppData\Local\Muse Hub\lib;C:\Program Files\apache-maven-3.9.11\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17+35-2724"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testAddition" classname="org.example.CalcTest" time="0.004"/>
+  <testcase name="testSubtraction" classname="org.example.CalcTest" time="0.005">
+    <failure message="expected: &lt;2&gt; but was: &lt;8&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <2> but was: <8>
+	at org.example.CalcTest.testSubtraction(CalcTest.java:16)
+]]></failure>
+  </testcase>
+</testsuite>
